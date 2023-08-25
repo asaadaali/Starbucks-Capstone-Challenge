@@ -63,4 +63,5 @@ All 3 json files should be located in data folder.
 This project was completed as part of the [Udacity Data Science Nanodegree]. The dataset used in this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Starbucks® Rewards program: Starbucks Coffee Company.
 
 # 7. Results
-The main observations of the code are published on medium
+The main observations of the code are published on medium: 
+https://medium.com/@asaadaali/starbucks-capstone-challenge-afb06b2d7923
